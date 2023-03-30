@@ -11,7 +11,7 @@ import {
 import { Beer } from "./BeerList.types";
 import { StyledBox } from "./BeerList.styled";
 
-import BeerCard from "../BeerCard/index";
+import BeerCard from "../BeerCard/BeerCard";
 
 const BeerList: React.FC = () => {
   const router = useRouter();

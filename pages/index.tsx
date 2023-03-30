@@ -1,6 +1,6 @@
 import { Box, styled } from "@mui/material";
 
-import BeerList from "@/components/BeerList/index";
+import BeerList from "@/components/BeerList/BeerList";
 
 const StyledBox = styled(Box)(() => ({
   height: "200px",

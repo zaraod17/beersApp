@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 
-const BeerDetail = dynamic(() => import("@/components/BeerDetails/index"), {
+const BeerDetail = dynamic(() => import("@/components/BeerDetails/BeerDetails"), {
   ssr: false,
 });
 
