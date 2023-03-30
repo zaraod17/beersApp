@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+I changed a bit package.json to run below command. To run project in prod you need to change command "start" to "next start".
+
 ```bash
 npm install && npm start
 ```
